@@ -4,6 +4,13 @@ A modern, responsive student event discovery platform MVP where students can dis
 
 ---
 
+## Live Demo
+
+**[Open Campus Events Hub](https://campus-events-hub.vercel.app/)**
+
+Explore college events, discover inter-college competitions, filter by category, search for events, and save your favourites.
+
+
 ## Key Features
 
 1. **Dual Core Navigation (Home Screen)**:
